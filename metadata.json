@@ -1,0 +1,7 @@
+{
+  "name": "VideFree",
+  "description": "The Ultimate AI Video & Image Generation Platform with Veo 3, Sora, and Nano Banana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
